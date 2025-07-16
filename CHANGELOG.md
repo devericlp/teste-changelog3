@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/devericlp/teste-changelog3/compare/v1.0.0...v1.1.0) (2025-07-16)
+
+
+### Features
+
+* removed placeholder ([0f6f6cb](https://github.com/devericlp/teste-changelog3/commit/0f6f6cb4748dfb29415768bbe485979d08977fe8))
+
 ## 1.0.0 (2025-07-16)
 
 
